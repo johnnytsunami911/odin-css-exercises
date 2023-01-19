@@ -1,0 +1,20 @@
+.paragraphs {
+    background-color: #eb9e9d;
+    font-family: 'verdana', dejavu sans, sans-serif;
+
+}
+
+#one-ID {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.paragraphs#large {
+    font-size: 24px;
+}
+
+#another-ID {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
